@@ -13,12 +13,12 @@ Reset: Reset the timer to zero by clicking the "Reset" button.
 <h4>Demo</h4>
 You can try the Stopwatch here: [Stopwatch Demo](https://bit.ly/3Z6hYUy)
 
-<u>Usage</u>
+<h4>Usage</h4>
 Click the "Start" button to begin the stopwatch.
 Use the "Stop" button to pause the timer.
 To reset the timer to zero, click the "Reset" button.
 
-<u>Contributing</u>
+<h4>Contributing</h4>
 If you'd like to contribute to this project, please follow these guidelines:
 -Fork the repository on GitHub.
 -Create a new branch for your feature or bug fix.
@@ -27,16 +27,16 @@ If you'd like to contribute to this project, please follow these guidelines:
 -Push your branch to your fork on GitHub.
 -Open a pull request to the main repository's main branch.
 
-<u>License</u>
+<h4>License</h4>
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-<u>Acknowledgments</u>
+<h4>Acknowledgments</h4>
 This project was created as part of a skill test for Coding Ninjas.
 
-<u>Contact</u>
+<h4>Contact</h4>
 If you have any questions or suggestions, please feel free to contact the project owner:
 
-<b>Seema Enand</b>
+<h5>Seema Enand</h5>
 Email: seemagrafix@gmail.com
 
 We hope you find this Stopwatch project useful! Thank you for checking it out.
