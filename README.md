@@ -1,4 +1,4 @@
-Coding Ninjas Skill Test Project: Stopwatch
+<h1>Coding Ninjas Skill Test Project: Stopwatch</h1>
 Stopwatch
 
 Description
