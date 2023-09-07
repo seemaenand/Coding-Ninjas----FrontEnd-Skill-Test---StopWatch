@@ -1,16 +1,16 @@
 <h1>Coding Ninjas Skill Test Project: Stopwatch</h1>
 <h3>Stopwatch</h3>
 
-<u>Description</u>
+<h4>Description</h4>
 This is a simple stopwatch web application created as part of the Coding Ninjas skill test. The stopwatch is built using HTML, CSS, and Vanilla JavaScript.
 
 
-<u>Features</u>
+<h4>Features</h4>
 Start: Begin timing by clicking the "Start" button.
 Stop: Pause the timer by clicking the "Stop" button.
 Reset: Reset the timer to zero by clicking the "Reset" button.
 
-<u>Demo</u>
+<h4>Demo</h4>
 You can try the Stopwatch here: [Stopwatch Demo](https://bit.ly/3Z6hYUy)
 
 <u>Usage</u>
