@@ -11,7 +11,7 @@ Stop: Pause the timer by clicking the "Stop" button.
 Reset: Reset the timer to zero by clicking the "Reset" button.
 
 Demo
-You can try the Stopwatch here: Stopwatch Demo
+You can try the Stopwatch here: [Stopwatch Demo](https://bit.ly/3Z6hYUy)
 
 Usage
 Click the "Start" button to begin the stopwatch.
